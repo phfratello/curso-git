@@ -9,8 +9,8 @@ namespace projeto_teste
             double P;
 
             Console.WriteLine("Olá Mundo");
-            Console.WriteLine("Bom dia!");
-
+            Console.WriteLine("Tenha um bom dia!");
+            
             Console.ReadLine();
         }
     }
